@@ -9,6 +9,12 @@ Functional requirements:
 
 Non-functional requirements:
   no important information is leaked to non-authorized persons.
+Q2:
+
+![image](https://github.com/user-attachments/assets/97703af4-77d5-4ab5-adfd-9ee472eb0bba)
+
+![image](https://github.com/user-attachments/assets/2b6b3d3f-da09-4117-92d8-d37349e385c2)
+
 
 Q3: Identify Hardware failures, Software failures, and Operational failures for the system 
   1. Hardware Failures
